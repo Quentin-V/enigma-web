@@ -1,0 +1,13 @@
+
+.question {
+	text-align: center;
+	color: lightgray;
+	font-size: 200%;
+	background-color: rgba(0, 0, 0, 0.6);
+}
+
+.info {
+	text-align: center;
+	margin-top: 20vmin;
+	padding: 20px;
+}

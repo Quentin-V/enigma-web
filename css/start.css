@@ -1,0 +1,17 @@
+.welcome {
+	text-align: center;
+	color: white;
+	font-size: 300%;
+	margin-top: 30vmin;
+	padding: 20px;
+	background-color: rgba(76, 76, 83, 0.64);
+	width: 45vw;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 10px;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+
+.hiddenBtn {
+	opacity: 0;
+}
