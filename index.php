@@ -7,7 +7,7 @@ include('./scripts.php');
 	<head>
 		<?php
 		$_SESSION['css'] = isset($_SESSION['css']) ? $_SESSION['css'] : 'start';
-		$_SESSION['page'] = isset($_SESSION['page']) ? $_SESSION['page'] : 'enigmastart';
+		$_SESSION['page'] = isset($_SESSION['page']) ? $_SESSION['page'] : 'steps/enigmastart';
 		?>
 
 		<meta charset="utf-8">
@@ -21,7 +21,7 @@ include('./scripts.php');
 
 	<body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0">
 		<div id="content">
-			<?php include($_SESSION['page'] . '.php') ?>
+			<?php include($_SESSION['page'] . '.php');?>
 
 		</div>
 

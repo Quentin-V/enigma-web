@@ -1,0 +1,92 @@
+Hints
+
+Step 1 :
+*  La page n'est pas ite, c'est pas un bug.
+*  Clic droit est ton meilleur ami
+*  Ctrl + U (Code source)
+	
+Step 2 :
+*  C'est un endroit sur terre
+*  C'est une ville, et pas Hong Kong
+*  Une grosse pomme - la liberté - Des gratte-ciels
+*  La ville a le nom de l'état dans lequel elle est
+	
+Step 3 :
+*  Tu comprendras si tu es assez view
+*  J'aimais bien les téléphones avant
+*  Surtout leur clavier
+*  https://i.stack.imgur.com/hHq4v.jpg
+	
+Step 4 :
+*  -.. ..- -... -. .. ..- --
+*  C'est du morse
+*  https://morsecode.world/international/translator.html
+	
+Step 5 :
+*  Je t'entend pas
+*  C'est américain
+*  Alphabet de langue des signes américaine
+	
+Step 6 :
+*  'Bonjour'
+*  Il faut le faire deux fois
+*  https://emn178.github.io/online-tools/sha256.html
+	
+Step 7 :
+*  Je vois pas
+*  J'aime la chimie
+*  Tableau périodique
+	
+*  Ne fais rien avec le 'A'
+*  A l'envers
+*  C'est devant toi depuis le début
+	
+Step 8 :
+*  C'est qui ?
+*  Télécharge l'image
+*  Clic droit est ton meilleur ami
+*  Dans les propriétés
+*  https://cryptii.com/pipes/enigma-machine
+	
+Step 9 :
+*  Regarde l'image de plus près
+*  Si j'étais toi, je changerais la couleur d'arrière plan
+*  Les nombres c'est normal
+*  Assemble le @ et le code
+	
+	Partie 2
+*  Logo vert
+*  Il faut écouter plusieurs musiques pas qu'une seule
+*  Une playlist spotify
+	
+Step 10 :
+*  C'est qui elle ?
+*  J'adore la couleur de fond, si seulement je connaissais son nom.
+*  http://chir.ag/projects/name-that-color/
+*  Les commentaires google
+	
+	Partie 2
+*  Comment césar peut cacher un message ?
+*  Il y a une bonne valeur de rouge dans ce fond
+*  https://cryptii.com
+	
+Step 11 :
+*  Concentre toi sur 'meta' d'abord
+*  Cherche 'picture meta' sur google
+*  http://exif.regex.info/exif.cgi
+	
+	Partie 2
+*  C'est mieux si tu es en pleine immersion dans cette belle ville
+*  Il faut rester pile sur le point ...
+*  Quand est-ce que l'image a été crée ?
+*  ... mais peut être pas au même moment
+	
+Step 12 :
+
+*  C'est qui lui ?
+*  Faudrait peut-être utiliser sa création ?
+
+	Partie 2
+*  Il faut se concentrer sur l'audio pas la vidéo.
+*  Ondes spectrales
+*  https://www.dcode.fr/spectral-analysis
