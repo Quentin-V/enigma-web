@@ -22,7 +22,6 @@ include('./scripts.php');
 	<body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0">
 		<div id="content">
 			<?php include($_SESSION['page'] . '.php');?>
-
 		</div>
 
 	<script>
