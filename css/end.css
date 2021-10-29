@@ -1,0 +1,38 @@
+
+.end {
+	background-color: rgba(0, 0, 0, 0.6);
+	text-align: center;
+	font-size: 120%;
+}
+
+.end > label {
+	color: white;
+}
+
+.end > input {
+	border-radius: 2px;
+	padding-left: 8px;
+	box-shadow: 2px 2px;
+	height: 50px;
+	width: 500px;
+	font-size: 110%;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+
+.end > button {
+	background-color: #e7e7e7;
+	height: 40px;
+	font-size: 120%;
+	transition: 0.5s;
+}
+
+.end > button:hover {
+	cursor: pointer;
+	transition: 0.5s;
+}
+
+.info {
+	text-align: center;
+	margin-top: 20vmin;
+	padding: 20px;
+}

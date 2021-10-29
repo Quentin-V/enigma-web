@@ -6,7 +6,7 @@
 
 ### Step 2
 - First pic is a Big Apple
-- Seocnd pic represents Freedom/Liberty
+- Second pic represents Freedom/Liberty
 - Third pic is just some buildings
 ##### *This leads us to New York City*
 Also known as 'The Big Apple', has the Statue of Liberty and is known for the buildings
@@ -22,11 +22,16 @@ Also known as 'The Big Apple', has the Statue of Liberty and is known for the bu
 ##### *Answer : Dubnium*
 
 ### Step 5
+- The sound is simply 3 piano notes, notes can be represented with letters (A, B, C, D, E, F and G)
+- The 3 notes you hear are F5 A5 and G5 so the answer is simply the concatenation of the letters without the number
+##### *Answer : Fag*
+
+### Step 6
 - It is simply letters in sign language.
 - The message says 'Hey, the answer is Chicoutimi'
 ##### *So answer : Chicoutimi*
 
-### Step 6
+### Step 7
 - The french flag is here because you need to translate 'Hello'
 - So Hello is 'Bonjour' in French.
 - After this, SHA256 is a crypting algorithm
@@ -35,7 +40,15 @@ Also known as 'The Big Apple', has the Statue of Liberty and is known for the bu
 - Since there's '2 *' before SHA256, you need to make the operation one more time.
 ##### *Answer : 11e9a949ab811e7357ec1a75e50d88f4445af2de3d482490b7d8d4f309f4cb48*
 
-### Step 7
+### Step 8
+- The picture represents Jupiter
+- You have to download the image and look into the properties of it
+- In the details tab, you find dates and 'My birthday <3' in the copyright comment also Paris France
+- You have to make the astrological chart with this date and place of birth
+- Then look at the Jupiter sign
+##### *Answer : Gemini*
+
+### Step 9
 - This one start to become a little harder, it needs to be done in 2 steps.
 - First you need to translate the upper part of the picture.
 - This is braille and is translated veelednem
@@ -45,7 +58,13 @@ Also known as 'The Big Apple', has the Statue of Liberty and is known for the bu
 - As Mendeleev was written backwards, we have to reverse 'Amgine'
 ##### *Answer : Enigma*
 
-### Step 8
+### Step 10
+- You have to download the file, it's called js.txt
+- It's javascript code that have been obfuscated
+- You have to copy the code and paste it into your browser console, it creates an alert telling you the answer is <3
+##### *Answer : <3*
+
+### Step 11
 - First, you have to find who's the guy in the picture.
 - He's Alan turing, the man who cracked the Enigma machine during WWII
 - Now, you need to take a look at the properties of the image.
@@ -60,7 +79,18 @@ Also known as 'The Big Apple', has the Statue of Liberty and is known for the bu
 - You can decode it easily with this website : [Cryptiii](https://cryptii.com/pipes/enigma-machine)
 ##### *Answer : Dream*
 
-### Step 9
+### Step 12
+- You have to download the picture, it's called my_cat_lsb
+- My cat is because it's my cat and LSB is for least significant bit
+- That is why the hint is `Sometimes that's the smallest details that are the most important`
+- There is a message encoded in the image with the least significant bit steganography method
+  - The message is `socket same address 7777`
+- You have to create a connection to `quinta.ovh` with the port `7777`
+- You can do this with the telnet tool or any other socket tool
+- When connecting, the server sends you `Well done, you found me, the answer is Shy`
+##### *Answer : Shy*
+
+### Step 13
 - For this one, if we look at the picture very closely, we notice something.
 - Especially in the center, there are some lines with a very slightly different color
 - This is a barcode. You need to change the background color with an image editing software
@@ -81,7 +111,7 @@ Also known as 'The Big Apple', has the Statue of Liberty and is known for the bu
 - A messy message but basically says 'Congratulations, you found the answer Lunaire'
 ##### *Answer : Lunaire*
 
-### Step 10
+### Step 14
 - There are 2 elements in the picture, the woman and the background.
 - If you search the woman, it is Dalida.
 - The background color hex code is : #76bd17, in rgb : 118, 189, 23
@@ -105,7 +135,7 @@ Also known as 'The Big Apple', has the Statue of Liberty and is known for the bu
 - [Cryptiii](https://cryptii.com/pipes/caesar-cipher)
 ##### _Answer : Discomfort_
 
-### Step 11
+### Step 15
 - For this one, you first need to analyse the image, the name of the file is 'ti_amo__meta'
 - First you need to focus on the 'meta' part. There are some metadata properties hidden in the file.
 - I use this website to see the metadata : [Metadata viewer](http://exif.regex.info/exif.cgi)
@@ -121,7 +151,7 @@ Also known as 'The Big Apple', has the Statue of Liberty and is known for the bu
 - Between them, you can see some numbers, this is the answer.
 ##### _Answer : 0192840721_
 
-### Step 12
+### Step 16
 - You need to find who's the guy in the image.
 - He's Eugene Roshal, the creator of the RAR compressing format, WinRAR and FAR.
 - With this information, you need to open the image with either WinRAR, 7Zip and maybe others compressing softwares also work.

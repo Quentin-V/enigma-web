@@ -21,12 +21,17 @@ Ca peut sauver des vies alos si tu peux, va donner ton sang, c'est sympa.
 - -.. ..- -... -. .. ..- --
 ##### *Answer : Dubnium*
 
-#### Step 5
+### Step 5
+- Le son est simplement 3 notes de piano, les notes peuvent être représentées avec des lettes (A, B, C, D, E, F et G)
+- Les 3 notes qu'on entend sont F5 A5 et G5, la réponse est la concaténation de ces lettres sans les nombres
+##### *Answer : Fag*
+
+#### Step 6
 - Ce sont des lettres en langue des signes américaine.
 - Le message est 'Hey, the answer is Chicoutimi'
 ##### *So answer : Chicoutimi*
 
-#### Step 6
+#### Step 7
 - Le drapeau français est pour dire qu'il faut traduire 'Hello'
 - Donc 'Bonjour'
 - SHA 256 est un algorithme de hashage
@@ -35,7 +40,15 @@ Ca peut sauver des vies alos si tu peux, va donner ton sang, c'est sympa.
 - Puisqu'il y a '2 *' devant SHA256, on recommence une l'opération une fois.
 ##### *Answer : 11e9a949ab811e7357ec1a75e50d88f4445af2de3d482490b7d8d4f309f4cb48*
 
-#### Step 7
+### Step 8
+- La photo représente Jupiter
+- On doit télécharger l'image et regarder dans les propriétés
+- Dans l'onglet détails, on trouve une date, 'My birthday <3' et Paris France
+- On doit faire la charte astrale avec cette date et lieu de naissance
+- La réponse est le signe de Jupiter
+##### *Answer : Gemini*
+
+#### Step 9
 - La ça commence à devenir un peu plus compliqué, on va la faire en deux étapes.
 - On traduit la première partie de l'image.
 - C'est du braille et ça donne veelednem
@@ -45,7 +58,13 @@ Ca peut sauver des vies alos si tu peux, va donner ton sang, c'est sympa.
 - Comme Mendeleev était à l'envers, on retourne 'Amgine'
 ##### *Answer : Enigma*
 
-#### Step 8
+### Step 10
+- On doit télécharger le fichier, il s'appelle js.txt
+- C'est du code javascript qui a été obfusqué
+- On doit copier le code et l'exécuter dans la console du navigateur, ça crée une alerte qui dit que la réponse est <3
+##### *Answer : <3*
+
+#### Step 11
 - On doit commencer par trouver qui est dans l'image.
 - C'est Alan Turing, celui qui a cracké la machine Enigma durant la seconde guerre mondiale
 - Il faut qu'on regarde les propriétés de l'image.
@@ -58,10 +77,20 @@ Ca peut sauver des vies alos si tu peux, va donner ton sang, c'est sympa.
   - plugboard --> en ig ma
 - Avec ça et le nom du fichier 'FUUKK'
 - On le décode avec ce site : [Cryptiii](https://cryptii.com/pipes/enigma-machine)
-
 ##### *Answer : Dream*
 
-#### Step 9
+### Step 12
+- On doit télécharger l'image, elle s'appelle my_cat_lsb
+- My cat parce que c'est mon chat et LSB pour least significant bit (bit de poids faible/le plus insignifiant)
+- C'est pour ça que l'indice est `Parfois les plus petits détails sont les plus importants`
+- Il y a un message encodé dans l'image avec la méthode de stéganographie du bit de poids faible
+  - Le message est `socket same address 7777`
+- On doit se connecter à `quita.ovh` sur le port `7777`
+- On peut faire ça avec l'outil telnet ou un autre outil de socket
+- A la connexion, le serveur envoie `Bien joué, tu m'as trouvé, la réponse est Shy`
+##### *Answer : Shy*
+
+#### Step 13
 - Si on regarde l'image de très près on s'apperçoit d'un truc.
 - Surtout au milieu, il y a des lignes un peu plus pales.
 - C'est un code barre, il faut changer l'arrière plan pour l'isoler
@@ -81,7 +110,7 @@ Ca peut sauver des vies alos si tu peux, va donner ton sang, c'est sympa.
 - Donc en traduisant un minimum : Bravo, tu as trouvé la réponse Lunaire.
 ##### *Answer : Lunaire*
 
-#### Step 10
+#### Step 14
 - Il y a deux éléments dans l'image.
 - La femme et le fond.
 - Si on cherche la femme, c'est Dalida.
@@ -105,7 +134,7 @@ Ca peut sauver des vies alos si tu peux, va donner ton sang, c'est sympa.
 - [Cryptiii](https://cryptii.com/pipes/caesar-cipher)
 ##### *Réponse : Discomfort*
 
-#### Step 11
+#### Step 15
 - Pour celui-ci, on doit d'abord analyser l'image, le nom du fichier est "ti_amo__meta".
 - Il faut d'abord se concentrer sur la partie "meta". Il y a des propriétés de métadonnées cachées dans le fichier.
 - J'utilise ce site web pour voir les métadonnées : http://exif.regex.info/exif.cgi
@@ -121,7 +150,7 @@ Ca peut sauver des vies alos si tu peux, va donner ton sang, c'est sympa.
 - Entre les deux, il y a des chiffres, c'est la réponse.
 ##### *Answer : 0192840721*
 
-#### Step 12
+#### Step 16
 - Il faut trouver l'homme sur la photo.
 - C'est Eugène Roshal, le créateur du format de compression RAR, WinRAR et FAR.
 - Avec ces informations, on doit ouvrir l'image avec WinRAR, 7Zip et peut-être d'autres logiciels de compression qui fonctionnent aussi.
