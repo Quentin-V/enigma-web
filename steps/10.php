@@ -6,7 +6,7 @@ if($file_name != 'index.php') header('Location: denied.php');
 ?>
 
 			<p class="info">Wow, you're good, this wasn't that simple.</p>
-			<p class="info">let's test you one more time before sending the real challenges.</p>
+			<p class="info">Let's test you one more time before sending the real challenges.</p>
 
 			<div>
 				<a href="/enigma/ressource/js" download>Click here to download the answer</a>

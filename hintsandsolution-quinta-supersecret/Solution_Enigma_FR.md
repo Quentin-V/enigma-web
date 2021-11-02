@@ -65,6 +65,13 @@ Ca peut sauver des vies alos si tu peux, va donner ton sang, c'est sympa.
 ##### *Answer : <3*
 
 #### Step 11
+- Il faut télécharger l'image
+- Ouvrir l'image avec un éditeur, aller tout en bas pour récupérer la deuxième partie de l'énigme
+- La chaine de caractère est un hash encrypté avec l'algorithme MD5
+- Possible de le cracker sur ces sites [CrackStation](https://crackstation.net) ou [MD5 Decrypt](https://md5decrypt.net)
+##### *Answer : quinta*
+
+#### Step 12
 - On doit commencer par trouver qui est dans l'image.
 - C'est Alan Turing, celui qui a cracké la machine Enigma durant la seconde guerre mondiale
 - Il faut qu'on regarde les propriétés de l'image.
@@ -79,7 +86,7 @@ Ca peut sauver des vies alos si tu peux, va donner ton sang, c'est sympa.
 - On le décode avec ce site : [Cryptiii](https://cryptii.com/pipes/enigma-machine)
 ##### *Answer : Dream*
 
-### Step 12
+### Step 13
 - On doit télécharger l'image, elle s'appelle my_cat_lsb
 - My cat parce que c'est mon chat et LSB pour least significant bit (bit de poids faible/le plus insignifiant)
 - C'est pour ça que l'indice est `Parfois les plus petits détails sont les plus importants`
@@ -90,7 +97,7 @@ Ca peut sauver des vies alos si tu peux, va donner ton sang, c'est sympa.
 - A la connexion, le serveur envoie `Bien joué, tu m'as trouvé, la réponse est Shy`
 ##### *Answer : Shy*
 
-#### Step 13
+#### Step 14
 - Si on regarde l'image de très près on s'apperçoit d'un truc.
 - Surtout au milieu, il y a des lignes un peu plus pales.
 - C'est un code barre, il faut changer l'arrière plan pour l'isoler
@@ -110,7 +117,7 @@ Ca peut sauver des vies alos si tu peux, va donner ton sang, c'est sympa.
 - Donc en traduisant un minimum : Bravo, tu as trouvé la réponse Lunaire.
 ##### *Answer : Lunaire*
 
-#### Step 14
+#### Step 15
 - Il y a deux éléments dans l'image.
 - La femme et le fond.
 - Si on cherche la femme, c'est Dalida.
@@ -134,7 +141,7 @@ Ca peut sauver des vies alos si tu peux, va donner ton sang, c'est sympa.
 - [Cryptiii](https://cryptii.com/pipes/caesar-cipher)
 ##### *Réponse : Discomfort*
 
-#### Step 15
+#### Step 16
 - Pour celui-ci, on doit d'abord analyser l'image, le nom du fichier est "ti_amo__meta".
 - Il faut d'abord se concentrer sur la partie "meta". Il y a des propriétés de métadonnées cachées dans le fichier.
 - J'utilise ce site web pour voir les métadonnées : http://exif.regex.info/exif.cgi
@@ -150,7 +157,7 @@ Ca peut sauver des vies alos si tu peux, va donner ton sang, c'est sympa.
 - Entre les deux, il y a des chiffres, c'est la réponse.
 ##### *Answer : 0192840721*
 
-#### Step 16
+#### Step 17
 - Il faut trouver l'homme sur la photo.
 - C'est Eugène Roshal, le créateur du format de compression RAR, WinRAR et FAR.
 - Avec ces informations, on doit ouvrir l'image avec WinRAR, 7Zip et peut-être d'autres logiciels de compression qui fonctionnent aussi.

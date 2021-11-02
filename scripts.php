@@ -16,6 +16,7 @@ $reponses = array('nada', // 0
 			   'gemini',
 			   'enigma',
 			   '<3', // 10
+			   'quinta',
 			   'dream',
 			   'shy',
 			   'lunaire',

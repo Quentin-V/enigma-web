@@ -175,6 +175,36 @@
 #### Step 11
 <details>
 	<summary>Indice 1</summary>
+	J'adore cette image
+</details>
+<details>
+	<summary>Indice 2</summary>
+	Il faut la télécharger encore une fois
+</details>
+<details>
+	<summary>Indice 3</summary>
+	1000 mots valent mieux qu'une image
+</details>
+<details>
+	<summary>Indice 4</summary>
+	Peut être ouvrir l'image avec un éditeur de texte ?
+</details>
+<details>
+	<summary>Indice 5</summary>
+	PARTIE 2 | A quoi peut bien correspondre ce texte ? (En bas du fichier au cas où)
+</details>
+<details>
+	<summary>Indice 6</summary>
+	On dirait un hash ?
+</details>
+<details>
+	<summary>Indice 7</summary>
+	MD5
+</details>
+
+#### Step 12
+<details>
+	<summary>Indice 1</summary>
 	C'est qui ?
 </details>
 <details>
@@ -194,7 +224,7 @@
 	[Machine Enigma en ligne](https://cryptii.com/pipes/enigma-machine)
 </details>
 
-#### Step 12
+#### Step 13
 <details>
 	<summary>Indice 1</summary>
 	Trop beau ce chat, tu devrais avoir l'image en local au cas où :)
@@ -228,7 +258,7 @@
 	[Telnet :)](https://telnet-online.net)
 </details>
 
-#### Step 13
+#### Step 14
 <details>
 	<summary>Indice 1</summary>
 	Regarde l'image de plus près
@@ -258,7 +288,7 @@
 	Une playlist spotify
 </details>
 
-#### Step 14
+#### Step 15
 <details>
 	<summary>Indice 1</summary>
 	C'est qui elle ?
@@ -288,7 +318,7 @@
 	[Code césar](https://cryptii.com/pipes/caesar-cipher)
 </details>
 
-#### Step 15
+#### Step 16
 <details>
 	<summary>Indice 1</summary>
 	Concentre toi sur 'meta' d'abord
@@ -318,7 +348,7 @@
 	... mais peut être pas au même moment
 </details>
 
-#### Step 16
+#### Step 17
 <details>
 	<summary>Indice 1</summary>
 	C'est qui lui ?

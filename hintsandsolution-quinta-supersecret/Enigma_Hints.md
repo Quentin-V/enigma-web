@@ -175,6 +175,36 @@
 #### Step 11
 <details>
 	<summary>Clue 1</summary>
+	I love this picture
+</details>
+<details>
+	<summary>Clue 2</summary>
+	Yes you need to download it once again
+</details>
+<details>
+	<summary>Clue 3</summary>
+	A thousand words are worth one picture
+</details>
+<details>
+	<summary>Clue 4</summary>
+	Maybe open it with a text editor ?
+</details>
+<details>
+	<summary>Clue 5</summary>
+	PARTE 2 | What can this text be ? (at the bottom of the file just in case)
+</details>
+<details>
+	<summary>Clue 6</summary>
+	Looks like a hash ?
+</details>
+<details>
+	<summary>Clue 7</summary>
+	MD5
+</details>
+
+#### Step 12
+<details>
+	<summary>Clue 1</summary>
 	Who is he ?
 </details>
 <details>
@@ -194,7 +224,7 @@
 	[Enigma Machine online](https://cryptii.com/pipes/enigma-machine)
 </details>
 
-#### Step 12
+#### Step 13
 <details>
 	<summary>Clue 1</summary>
 	What a cute cat, you should have this pic locally :)
@@ -228,7 +258,7 @@
 	[Telnet :)](https://telnet-online.net)
 </details>
 
-#### Step 13
+#### Step 14
 <details>
 	<summary>Clue 1</summary>
 	Look closely to the picture
@@ -258,7 +288,7 @@
 	Spotify playlist
 </details>
 
-#### Step 14
+#### Step 15
 <details>
 	<summary>Clue 1</summary>
 	Who is she ?
@@ -288,7 +318,7 @@
 	[Caesar code](https://cryptii.com/pipes/caesar-cipher)
 </details>
 
-#### Step 15
+#### Step 16
 <details>
 	<summary>Clue 1</summary>
 	Focus on 'meta' first
@@ -318,7 +348,7 @@
 	... but maybe not at the same time
 </details>
 
-#### Step 16
+#### Step 17
 <details>
 	<summary>Clue 1</summary>
 	Who's this guy ?

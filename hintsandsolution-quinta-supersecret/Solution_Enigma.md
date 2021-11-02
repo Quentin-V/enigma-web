@@ -64,7 +64,14 @@ Also known as 'The Big Apple', has the Statue of Liberty and is known for the bu
 - You have to copy the code and paste it into your browser console, it creates an alert telling you the answer is <3
 ##### *Answer : <3*
 
-### Step 11
+#### Step 11
+- You need to download the picture
+- Open the image with a text editor, scroll to the bottom to get the string for the 2nd part
+- The string is a hash encrypted with the MD5 algorithm
+- You can crack it on [CrackStation](https://crackstation.net) or [MD5 Decrypt](https://md5decrypt.net)
+##### *Answer : quinta*
+
+### Step 12
 - First, you have to find who's the guy in the picture.
 - He's Alan turing, the man who cracked the Enigma machine during WWII
 - Now, you need to take a look at the properties of the image.
@@ -79,7 +86,7 @@ Also known as 'The Big Apple', has the Statue of Liberty and is known for the bu
 - You can decode it easily with this website : [Cryptiii](https://cryptii.com/pipes/enigma-machine)
 ##### *Answer : Dream*
 
-### Step 12
+### Step 13
 - You have to download the picture, it's called my_cat_lsb
 - My cat is because it's my cat and LSB is for least significant bit
 - That is why the hint is `Sometimes that's the smallest details that are the most important`
@@ -90,7 +97,7 @@ Also known as 'The Big Apple', has the Statue of Liberty and is known for the bu
 - When connecting, the server sends you `Well done, you found me, the answer is Shy`
 ##### *Answer : Shy*
 
-### Step 13
+### Step 14
 - For this one, if we look at the picture very closely, we notice something.
 - Especially in the center, there are some lines with a very slightly different color
 - This is a barcode. You need to change the background color with an image editing software
@@ -111,7 +118,7 @@ Also known as 'The Big Apple', has the Statue of Liberty and is known for the bu
 - A messy message but basically says 'Congratulations, you found the answer Lunaire'
 ##### *Answer : Lunaire*
 
-### Step 14
+### Step 15
 - There are 2 elements in the picture, the woman and the background.
 - If you search the woman, it is Dalida.
 - The background color hex code is : #76bd17, in rgb : 118, 189, 23
@@ -135,7 +142,7 @@ Also known as 'The Big Apple', has the Statue of Liberty and is known for the bu
 - [Cryptiii](https://cryptii.com/pipes/caesar-cipher)
 ##### _Answer : Discomfort_
 
-### Step 15
+### Step 16
 - For this one, you first need to analyse the image, the name of the file is 'ti_amo__meta'
 - First you need to focus on the 'meta' part. There are some metadata properties hidden in the file.
 - I use this website to see the metadata : [Metadata viewer](http://exif.regex.info/exif.cgi)
@@ -151,7 +158,7 @@ Also known as 'The Big Apple', has the Statue of Liberty and is known for the bu
 - Between them, you can see some numbers, this is the answer.
 ##### _Answer : 0192840721_
 
-### Step 16
+### Step 17
 - You need to find who's the guy in the image.
 - He's Eugene Roshal, the creator of the RAR compressing format, WinRAR and FAR.
 - With this information, you need to open the image with either WinRAR, 7Zip and maybe others compressing softwares also work.
