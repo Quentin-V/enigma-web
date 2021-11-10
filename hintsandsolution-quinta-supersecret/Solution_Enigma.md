@@ -48,11 +48,11 @@ Also known as 'The Big Apple', has the Statue of Liberty and is known for the bu
 - Then look at the Jupiter sign
 ##### *Answer : Gemini*
 
-### Step9
-- 
-- 
--
-##### *Answer : ???*
+### Step 9
+- You have to find what is the ferris wheel on the picture
+- It is the Cosmo Clock 21, located in Yokohama, Japan
+- The answer is the time that should be on the clock when you send it
+##### *Answer : The actual time of Japan (hours without leading zeros e.g 8:30 or 16:05). [Available here](www.google.com/search?&q=japan+time)*
 
 ### Step 10
 - This one start to become a little harder, it needs to be done in 3 steps.

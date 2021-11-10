@@ -131,6 +131,32 @@
 #### Step 9
 <details>
 	<summary>Clue 1</summary>
+	What could this ferris wheel be ?
+</details>
+<details>
+	<summary>Clue 2</summary>
+	It's in Japan
+</details>
+<details>
+	<summary>Clue 3</summary>
+	Cosmo Clock 21
+</details>
+<details>
+	<summary>Clue 4</summary>
+	Looks like the time is missing from our pictures
+</details>
+<details>
+	<summary>Clue 5</summary>
+	Maybe Japan time
+</details>
+<details>
+	<summary>Clue 6</summary>
+	Format: HH:MM without leading 0 for the hours, example 7:10 or 15:09
+</details>
+
+#### Step 10
+<details>
+	<summary>Clue 1</summary>
 	I can't see
 </details>
 <details>
@@ -154,7 +180,7 @@
 	It is in front of you since the begining
 </details>
 
-#### Step 10
+#### Step 11
 <details>
 	<summary>Clue 1</summary>
 	If you haven't, yes you need to click the link to download the file
@@ -172,7 +198,7 @@
 	The browser console is the best
 </details>
 
-#### Step 11
+#### Step 12
 <details>
 	<summary>Clue 1</summary>
 	I love this picture
@@ -202,7 +228,7 @@
 	MD5
 </details>
 
-#### Step 12
+#### Step 13
 <details>
 	<summary>Clue 1</summary>
 	Who is he ?
@@ -224,7 +250,7 @@
 	[Enigma Machine online](https://cryptii.com/pipes/enigma-machine)
 </details>
 
-#### Step 13
+#### Step 14
 <details>
 	<summary>Clue 1</summary>
 	What a cute cat, you should have this pic locally :)
@@ -258,7 +284,7 @@
 	[Telnet :)](https://telnet-online.net)
 </details>
 
-#### Step 14
+#### Step 15
 <details>
 	<summary>Clue 1</summary>
 	Look closely to the picture
@@ -288,7 +314,7 @@
 	Spotify playlist
 </details>
 
-#### Step 15
+#### Step 16
 <details>
 	<summary>Clue 1</summary>
 	Who is she ?
@@ -318,7 +344,7 @@
 	[Caesar code](https://cryptii.com/pipes/caesar-cipher)
 </details>
 
-#### Step 16
+#### Step 17
 <details>
 	<summary>Clue 1</summary>
 	Focus on 'meta' first
@@ -348,7 +374,7 @@
 	... but maybe not at the same time
 </details>
 
-#### Step 17
+#### Step 18
 <details>
 	<summary>Clue 1</summary>
 	Who's this guy ?

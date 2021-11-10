@@ -48,11 +48,11 @@ Ca peut sauver des vies alos si tu peux, va donner ton sang, c'est sympa.
 - La réponse est le signe de Jupiter
 ##### *Answer : Gemini*
 
-#### Step9
-- 
-- 
--
-##### *Answer : ???*
+### Step 9
+- Il faut trouver ce qu'est la grande roue de l'image
+- C'est la Cosmo Clock 21, située à Yokohama au Japan
+- La réponse est l'heure que devrait afficher l'horloge au moment où la réponse est envoyée
+##### *Answer : Heure actuelle au japon (pas de 0 devant le chiffre des heures e.g 8:30 ou 16:05). [Available here](www.google.com/search?&q=japan+time)*
 
 ### Step 10
 - La ça commence à devenir un peu plus compliqué, on va la faire en deux étapes.
