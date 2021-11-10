@@ -5,10 +5,12 @@ $file_name = basename($_SERVER['PHP_SELF']);
 if($file_name != 'index.php') header('Location: denied.php');
 ?>
 
-			<p class="info">Ok, good job I guess</p>
-			<p class="info">But can you do this one ?</p>
+			<p class="info">Wow, you're good, this wasn't that simple.</p>
+			<p class="info">Let's test you one more time before sending the real challenges.</p>
 
-			<img height="500px" src="/enigma/ressource/img/me.png" alt="me" />
+			<div style="margin-bottom: 2vh;">
+				<a class="downloadable" href="/enigma/ressource/js" download>Click here to download the answer</a>
+			</div>
 
 			<form class="questionForm" method="post">
 				<input name="reponse" placeholder="Answer" autocomplete="off" autofocus />

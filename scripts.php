@@ -7,22 +7,23 @@ if(!isset($_COOKIE['name'])) header('Location: whoareyou.php');
 // reponses means answer
 $reponses = array('nada', // 0
                   'nada',
-			   'newyorkcity',
+			   ['newyorkcity', 'nyc'],
 			   'giveyourblood',
 			   'dubnium',
 			   'fag', // 5
 			   'chicoutimi',
 			   '11e9a949ab811e7357ec1a75e50d88f4445af2de3d482490b7d8d4f309f4cb48',
 			   'gemini',
+			   (new DateTime("now", new DateTimeZone("Asia/Tokyo")))->setTimestamp(time())->format("G:i"), // 9
 			   'enigma',
-			   '<3', // 10
+			   '<3', // 11
 			   'quinta',
 			   'dream',
 			   'shy',
 			   'lunaire',
-			   'discomfort',
+			   'discomfort', // 16
 			   '0192840721',
-			   'cacahuette' // 15
+			   'cacahuette' // 18
 		   );
 $wrong = ''; // Init wrong
 
@@ -33,15 +34,16 @@ if(isset($_POST['hiddenBtn'])) {
 	$_SESSION['page'] = 'steps/2';
 }
 
-
 // Script global
-if(isset($_POST['reponse'])) {
+if(isset($_POST['reponse'], $_SESSION['step'])) {
 	$wrong = '';
 	$repUser = $_POST['reponse'];
 	$repUser = strtolower($repUser); // Correction case
 	$repUser = str_replace(' ', '', $repUser); // Correction espaces
 
-	if($repUser == $reponses[$_SESSION['step']]) {
+	if(gettype($reponses[$_SESSION['step']]) == 'array') $goodAnswer = in_array($repUser, $reponses[$_SESSION['step']]);
+	else $goodAnswer = $repUser == $reponses[$_SESSION['step']];
+	if($goodAnswer) {
 		addlog('Found the answer to step ' . $_SESSION['step']);
 		++$_SESSION['step'];
 		setcookie('enigmastep', $_SESSION['step'], time() + (86400 * 30), '/');

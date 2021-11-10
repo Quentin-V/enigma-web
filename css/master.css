@@ -91,3 +91,9 @@ img {
 	width: 650px;
 	height: 370px;
 }
+
+.downloadable {
+	text-align: center;
+	font-size: 2em;
+	color: #999999;
+}
