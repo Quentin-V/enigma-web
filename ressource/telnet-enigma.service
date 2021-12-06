@@ -1,0 +1,15 @@
+[Unit]
+Description=Telnet process for enigma
+
+[Service]
+ExecStart=/usr/bin/node /var/www/html/enigma/ressource/telnet-enigma.js
+Restart=always
+User=nobody
+# Note Debian/Ubuntu uses 'nogroup', RHEL/Fedora uses 'nobody'
+Group=nogroup
+Environment=PATH=/usr/bin:/usr/local/bin
+Environment=NODE_ENV=production
+WorkingDirectory=/var/www/html/enigma
+
+[Install]
+WantedBy=multi-user.target
