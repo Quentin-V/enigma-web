@@ -97,8 +97,8 @@ Ca peut sauver des vies alos si tu peux, va donner ton sang, c'est sympa.
 - My cat parce que c'est mon chat et LSB pour least significant bit (bit de poids faible/le plus insignifiant)
 - C'est pour ça que l'indice est `Parfois les plus petits détails sont les plus importants`
 - Il y a un message encodé dans l'image avec la méthode de stéganographie du bit de poids faible
-  - Le message est `socket same address 7878`
-- On doit se connecter à `quita.ovh` sur le port `7878`
+  - Le message est `socket same address 7777`
+- On doit se connecter à `quita.ovh` sur le port `7777`
 - On peut faire ça avec l'outil telnet ou un autre outil de socket
 - A la connexion, le serveur envoie `Bien joué, tu m'as trouvé, la réponse est Shy`
 ##### *Answer : Shy*

@@ -6,7 +6,7 @@ if($file_name != 'index.php') header('Location: denied.php');
 ?>
 			<p class="info">Sound is still required, testing your audition now</p>
 			<audio preload="auto" controls autoplay loop>
-				<source src="/enigma/ressource/audio/step5.wav" type="audio/wav">
+				<source src="/enigma/ressource/audio/piano.wav" type="audio/wav">
 				Cette enigme ne fonctionne pas sous Internet Explorer ou Edge.
 				This does not work with Explorer or Edge
 			</audio>

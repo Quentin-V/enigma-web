@@ -97,8 +97,8 @@ Also known as 'The Big Apple', has the Statue of Liberty and is known for the bu
 - My cat is because it's my cat and LSB is for least significant bit
 - That is why the hint is `Sometimes that's the smallest details that are the most important`
 - There is a message encoded in the image with the least significant bit steganography method
-  - The message is `socket same address 7878`
-- You have to create a connection to `quinta.ovh` with the port `7878`
+  - The message is `socket same address 7777`
+- You have to create a connection to quinta.ovh with a program like telnet: `telnet quinta.ovh` with the port `7777`
 - You can do this with the telnet tool or any other socket tool
 - When connecting, the server sends you `Well done, you found me, the answer is Shy`
 ##### *Answer : Shy*

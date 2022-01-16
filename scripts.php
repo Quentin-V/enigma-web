@@ -71,7 +71,9 @@ if(isset($_POST['reponse'], $_SESSION['step'])) {
 function addlog($action) {
 	//return; // Commment to enable logs
 	$date = date('y-m-d');
-	$myfile = fopen('logs/'.$date.".txt", "a") or die("Unable to open log file!");
+	if(!is_dir('./logs')) mkdir('./logs', 0700);
+	$myfile = fopen('./logs/'.$date.".txt", "a");
+	if(!$myfile) return;
 	$txt = "Heure : ". date('H:i:s') ." | Name : " . $_COOKIE['name'] . " | IP : ". $_SERVER['REMOTE_ADDR'] ." | Action : ".$action."\n";
 	fwrite($myfile, $txt);
 	fclose($myfile);
