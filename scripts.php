@@ -16,7 +16,8 @@ $reponses = array('nada', // 0
 			   'gemini',
 			   (new DateTime("now", new DateTimeZone("Asia/Tokyo")))->setTimestamp(time())->format("G:i"), // 9
 			   'enigma',
-			   '<3', // 11
+			   'period', // 11
+			   '<3', // 12
 			   'quinta',
 			   'dream',
 			   'shy',

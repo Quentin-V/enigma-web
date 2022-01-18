@@ -4,17 +4,13 @@
 $file_name = basename($_SERVER['PHP_SELF']);
 if($file_name != 'index.php') header('Location: denied.php');
 ?>
+            <p class="info">Great, you found it!</p>
 
-			<p class="info">Wow, you're good, this wasn't that simple.</p>
-			<p class="info">Let's test you one more time before sending the real challenges.</p>
+            <img width="300px" src="/enigma/ressource/img/pink.png">
 
-			<div style="margin-bottom: 2vh;">
-				<a class="downloadable" href="/enigma/ressource/js" download>Click here to download the answer</a>
-			</div>
+            <form class="questionForm" method="post">
+                <input name="reponse" placeholder="Answer" autocomplete="off" autofocus />
+                <button type="submit">Send</button>
+            </form>
 
-			<form class="questionForm" method="post">
-				<input name="reponse" placeholder="Answer" autocomplete="off" autofocus />
-				<button type="submit">Send</button>
-			</form>
-
-			<?php echo $wrong; ?>
+            <?php echo $wrong; ?>

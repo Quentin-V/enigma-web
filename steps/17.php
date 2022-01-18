@@ -4,10 +4,13 @@
 $file_name = basename($_SERVER['PHP_SELF']);
 if($file_name != 'index.php') header('Location: denied.php');
 ?>
-			<img class="map" src="/enigma/ressource/img/ti_amo__meta.png" alt="Map">
+			<p class="info">Ahh, I love music !</p>
+			<p class="info">An other picture with a weird background, I wonder what could that mean</p>
+
+			<img src="/enigma/ressource/img/woman.png" alt="woman"/>
 
 			<form class="questionForm" method="post">
-				<input name="reponse" placeholder="임 .... 대" autocomplete="off" pattern="[A-Za-z0-9 ]*" autofocus />
+				<input name="reponse" placeholder="Answer" autocomplete="off" autofocus />
 				<button type="submit">Send</button>
 			</form>
 

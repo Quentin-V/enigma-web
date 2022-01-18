@@ -5,10 +5,10 @@ $file_name = basename($_SERVER['PHP_SELF']);
 if($file_name != 'index.php') header('Location: denied.php');
 ?>
 
-			<p class="info">You're impressive, I didn't think you'd do this one</p>
-			<p class="info">Ewww this background color is not very beautiful</p>
+			<p class="info">Great! That guy has made really impressive things right ?</p>
+			<p class="info">Sometimes that's the smallest details that are the most important</p>
 
-			<img src="/enigma/ressource/img/awful_color.png" alt="awful_color"/>
+			<img width="500px" src="/enigma/ressource/img/my_cat_lsb.png" alt="My Beautiful Cat"/>
 
 			<form class="questionForm" method="post">
 				<input name="reponse" placeholder="Answer" autocomplete="off"  autofocus />
