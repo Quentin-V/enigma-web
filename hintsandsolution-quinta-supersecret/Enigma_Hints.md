@@ -183,6 +183,32 @@
 #### Step 11
 <details>
 	<summary>Clue 1</summary>
+	The color is important
+</details>
+<details>
+	<summary>Clue 2</summary>
+	I'd like to know the hex code of this color
+</details>
+<details>
+	<summary>Clue 3</summary>
+	You may need to insert the code in the visible text
+</details>
+<details>
+	<summary>Clue 4</summary>
+	You should already have this : '+7d5608a7', it looks like a number in hexadecimal base
+</details>
+<details>
+	<summary>Clue 5</summary>
+	Reconvert it to decimal could be interesting
+</details>
+<details>
+	<summary>Clue 6</summary>
+	+3644644979 strangely looks like a phone number
+</details>
+
+#### Step 12
+<details>
+	<summary>Clue 1</summary>
 	If you haven't, yes you need to click the link to download the file
 </details>
 <details>
@@ -198,7 +224,7 @@
 	The browser console is the best
 </details>
 
-#### Step 12
+#### Step 13
 <details>
 	<summary>Clue 1</summary>
 	I love this picture
@@ -228,7 +254,7 @@
 	MD5
 </details>
 
-#### Step 13
+#### Step 14
 <details>
 	<summary>Clue 1</summary>
 	Who is he ?
@@ -250,7 +276,7 @@
 	[Enigma Machine online](https://cryptii.com/pipes/enigma-machine)
 </details>
 
-#### Step 14
+#### Step 15
 <details>
 	<summary>Clue 1</summary>
 	What a cute cat, you should have this pic locally :)
@@ -284,7 +310,7 @@
 	[Telnet :)](https://telnet-online.net)
 </details>
 
-#### Step 15
+#### Step 16
 <details>
 	<summary>Clue 1</summary>
 	Look closely to the picture
@@ -314,7 +340,7 @@
 	Spotify playlist
 </details>
 
-#### Step 16
+#### Step 17
 <details>
 	<summary>Clue 1</summary>
 	Who is she ?
@@ -344,7 +370,7 @@
 	[Caesar code](https://cryptii.com/pipes/caesar-cipher)
 </details>
 
-#### Step 17
+#### Step 18
 <details>
 	<summary>Clue 1</summary>
 	Focus on 'meta' first
@@ -374,7 +400,7 @@
 	... but maybe not at the same time
 </details>
 
-#### Step 18
+#### Step 19
 <details>
 	<summary>Clue 1</summary>
 	Who's this guy ?

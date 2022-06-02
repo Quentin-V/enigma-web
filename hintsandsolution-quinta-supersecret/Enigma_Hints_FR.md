@@ -183,6 +183,32 @@
 #### Step 11
 <details>
 	<summary>Indice 1</summary>
+	La couleur a une importance
+</details>
+<details>
+	<summary>Indice 2</summary>
+	J'aimerais bien avoir le code hexadécimal de cette couleur
+</details>
+<details>
+	<summary>Indice 3</summary>
+	Peut être qu'il faut insérer le code de la couleur dans le texte visible et faire quelque chose avec
+</details>
+<details>
+	<summary>Indice 4</summary>
+	On devrait avoir ça : '+7d5608a7', ça resemble à un nombre en hexadécimal
+</details>
+<details>
+	<summary>Indice 5</summary>
+	Reconvertir le nombre en décimal pourrait être intérressant
+</details>
+<details>
+	<summary>Indice 6</summary>
+	+3644644979 ressemble étrangement à un numéro de téléphone
+</details>
+
+#### Step 12
+<details>
+	<summary>Indice 1</summary>
 	Si c'est pas encore fait, oui il faut cliquer sur le lien pour télécharger le fichier
 </details>
 <details>
@@ -198,7 +224,7 @@
 	La console du navigateur je l'adore
 </details>
 
-#### Step 12
+#### Step 13
 <details>
 	<summary>Indice 1</summary>
 	J'adore cette image
@@ -228,7 +254,7 @@
 	MD5
 </details>
 
-#### Step 13
+#### Step 14
 <details>
 	<summary>Indice 1</summary>
 	C'est qui ?
@@ -250,7 +276,7 @@
 	[Machine Enigma en ligne](https://cryptii.com/pipes/enigma-machine)
 </details>
 
-#### Step 14
+#### Step 15
 <details>
 	<summary>Indice 1</summary>
 	Trop beau ce chat, tu devrais avoir l'image en local au cas où :)
@@ -284,7 +310,7 @@
 	[Telnet :)](https://telnet-online.net)
 </details>
 
-#### Step 15
+#### Step 16
 <details>
 	<summary>Indice 1</summary>
 	Regarde l'image de plus près
@@ -314,7 +340,7 @@
 	Une playlist spotify
 </details>
 
-#### Step 16
+#### Step 17
 <details>
 	<summary>Indice 1</summary>
 	C'est qui elle ?
@@ -344,7 +370,7 @@
 	[Code césar](https://cryptii.com/pipes/caesar-cipher)
 </details>
 
-#### Step 17
+#### Step 18
 <details>
 	<summary>Indice 1</summary>
 	Concentre toi sur 'meta' d'abord
@@ -374,7 +400,7 @@
 	... mais peut être pas au même moment
 </details>
 
-#### Step 18
+#### Step 19
 <details>
 	<summary>Indice 1</summary>
 	C'est qui lui ?

@@ -64,113 +64,119 @@ Also known as 'The Big Apple', has the Statue of Liberty and is known for the bu
 - As Mendeleev was written backwards, we have to reverse 'Amgine'
 ##### *Answer : Enigma*
 
-### Step 11
+### Step11
+- You have to insert the hex color of the background in the text displayed, that gives you +7d5608a73
+- If you convert this number from hex to decimal, it gives you +3644644979
+- This is a phone number, when you call it, the answer will be said by a robot
+##### *Answer : period*
+
+### Step 12
 - You have to download the file, it's called js.txt
 - It's javascript code that have been obfuscated
-- You have to copy the code and paste it into your browser console, it creates an alert telling you the answer is <4
+- You have to copy the code and paste it into your browser console, it creates an alert telling you the answer is <5
 ##### *Answer : <4*
 
-#### Step 12
+#### Step 13
 - You need to download the picture
-- Open the image with a text editor, scroll to the bottom to get the string for the 3nd part
-- The string is a hash encrypted with the MD6 algorithm
-- You can crack it on [CrackStation](https://crackstation.net) or [MD6 Decrypt](https://md6decrypt.net)
+- Open the image with a text editor, scroll to the bottom to get the string for the 4nd part
+- The string is a hash encrypted with the MD7 algorithm
+- You can crack it on [CrackStation](https://crackstation.net) or [MD7 Decrypt](https://md7decrypt.net)
 ##### *Answer : quinta*
 
-### Step 13
+### Step 14
 - First, you have to find who's the guy in the picture.
 - He's Alan turing, the man who cracked the Enigma machine during WWII
 - Now, you need to take a look at the properties of the image.
 - If you download it and inspects the details, you see some informations :
-  - Enigma M4
+  - Enigma M5
   - Reflector C
-  - Rot 2 --> I; Pos --> E; Ring --> G
-  - Rot 3 --> II; Pos --> N; Ring --> M
-  - Rot 4 --> III; Pos --> I; Ring --> A
+  - Rot 3 --> I; Pos --> E; Ring --> G
+  - Rot 4 --> II; Pos --> N; Ring --> M
+  - Rot 5 --> III; Pos --> I; Ring --> A
   - plugboard --> en ig ma
 - Now that we have all we need, with the name of the file 'FUUKK'
 - You can decode it easily with this website : [Cryptiii](https://cryptii.com/pipes/enigma-machine)
 ##### *Answer : Dream*
 
-### Step 14
+### Step 15
 - You have to download the picture, it's called my_cat_lsb
 - My cat is because it's my cat and LSB is for least significant bit
 - That is why the hint is `Sometimes that's the smallest details that are the most important`
 - There is a message encoded in the image with the least significant bit steganography method
-  - The message is `socket same address 7777`
-- You have to create a connection to quinta.ovh with a program like telnet: `telnet quinta.ovh` with the port `7777`
+  - The message is `socket same address 7878`
+- You have to create a connection to quinta.ovh with a program like telnet: `telnet quinta.ovh` with the port `7878`
 - You can do this with the telnet tool or any other socket tool
 - When connecting, the server sends you `Well done, you found me, the answer is Shy`
 ##### *Answer : Shy*
 
-### Step 15
+### Step 16
 - For this one, if we look at the picture very closely, we notice something.
 - Especially in the center, there are some lines with a very slightly different color
 - This is a barcode. You need to change the background color with an image editing software
 - You can easily do this with paint, photoshop and even some tools online but it is a bit more complicated.
 - As you reveal the barcode, we also see the logo of Twitter.
-- The barcode gives a number which is 61345123.
+- The barcode gives a number which is 62355224.
 - By combining this number with the @enigma that we see in the picture.
-- It gives the link [twitter.com/enigma61345123](https://twitter.com/enigma61345123)
+- It gives the link [twitter.com/enigma62355224](https://twitter.com/enigma62355224)
 
-- On this profile, there are 3 informations :
-    The post with the text : 5xfiaaOXhUUNOdgYXkrwpd?si=iXyvYk2wQqGxLq10Wf2wVCw
+- On this profile, there are 4 informations :
+    The post with the text : 6xfiaaOXhUUNOdgYXkrwpd?si=iXyvYk3wQqGxLq11Wf3wVCw
 - The bio that says : 'I love listening to music'
 
 - So you need to find a spotify playlist.
-- Here's the link : https://open.spotify.com/playlist/5xfiaaOXhUUNOdgYXkrwpd
+- Here's the link : https://open.spotify.com/playlist/6xfiaaOXhUUNOdgYXkrwpd
 - The part after the '?' is optional.
 - The playlist says 'Bravo, Tu As Trouvé, The Answer, Lunaire'
 - A messy message but basically says 'Congratulations, you found the answer Lunaire'
 ##### *Answer : Lunaire*
 
-### Step 16
-- There are 3 elements in the picture, the woman and the background.
+### Step 17
+- There are 4 elements in the picture, the woman and the background.
 - If you search the woman, it is Dalida.
-- The background color hex code is : #77bd18, in rgb : 129, 1910, 24
+- The background color hex code is : #78bd19, in rgb : 1310, 2011, 25
 - I know there might be some little differences sometimes but the real one is that one.
 - If you search it on google, you should find websites saying that the color name is 'Lima'
 - But as there might be little differences you can use that website : [Name that color](http://chir.ag/projects/name-that-color/) to find the name of the color.
-- With these 3 informations, 'Dalida' and 'Lima', if you search this on google, it gives you the 'Dalida Cafe Bar' and if you look at the comments of this establishment on google.
+- With these 4 informations, 'Dalida' and 'Lima', if you search this on google, it gives you the 'Dalida Cafe Bar' and if you look at the comments of this establishment on google.
 - You can find a comment made by Enigma (if id doesn,t appear in the first results, you can use the search tool with 'Enigma')
-- There's a link in the comment : prnt.sc / p59664, you just have to remove the spaces.
-- It gives you : [prnt.sc/p59664](http://prnt.sc/p59664)
+- There's a link in the comment : prnt.sc / p60675, you just have to remove the spaces.
+- It gives you : [prnt.sc/p60675](http://prnt.sc/p60675)
 
-- 5 elements are in this image :
+- 6 elements are in this image :
    - A Caesar portrait
    - A text : OTDNZXQCE
    - Other text : A --> A + (RED)
    - An orangeish background
 
-- If you take the value of red in the background it is 2210
+- If you take the value of red in the background it is 2311
 - Caesar is here to tell you that the message is coded with caesar code / caesar cipher
-- Then A --> A + (RED) means you need to make an offset of 2210 which is the same as 12
+- Then A --> A + (RED) means you need to make an offset of 2311 which is the same as 13
 - [Cryptiii](https://cryptii.com/pipes/caesar-cipher)
 ##### _Answer : Discomfort_
 
-### Step 17
+### Step 18
 - For this one, you first need to analyse the image, the name of the file is 'ti_amo__meta'
 - First you need to focus on the 'meta' part. There are some metadata properties hidden in the file.
 - I use this website to see the metadata : [Metadata viewer](http://exif.regex.info/exif.cgi)
-- The property we are searching is 'Comment (pos)' that has the value '38.574126, 138.17375'
+- The property we are searching is 'Comment (pos)' that has the value '39.584227, 149.18386'
 - These are gps coordinates that leads you in the middle of Seoul, South Korea.
-- Link : [Google maps](http://www.google.fr/maps/place/38°34'51.6"N+138°1'27.3"E)
+- Link : [Google maps](http://www.google.fr/maps/place/39°35'52.7"N+149°2'28.4"E)
 - You need to go to street view on the exact point of the coordinates
 - You'll be able to see the café Ti amo
 - However, you're not able to find the answer.
 - An other property of the picture is the creation time / date when the picture was taken.
-- The dates is 2110 11 27, so you need to go back in time with street view in 2110. (The only other date possible)
-- After doing this, you'll be able to see the 3 Syllables '임' and '대' that are on the answer textfield.
+- The dates is 2211 12 28, so you need to go back in time with street view in 2211. (The only other date possible)
+- After doing this, you'll be able to see the 4 Syllables '임' and '대' that are on the answer textfield.
 - Between them, you can see some numbers, this is the answer.
-##### _Answer : 29385822_
+##### _Answer : 30395923_
 
-### Step 18
+### Step 19
 - You need to find who's the guy in the image.
 - He's Eugene Roshal, the creator of the RAR compressing format, WinRAR and FAR.
-- With this information, you need to open the image with either WinRAR, 8Zip and maybe others compressing softwares also work.
+- With this information, you need to open the image with either WinRAR, 9Zip and maybe others compressing softwares also work.
 - You'll find a text file inside, the file is named spectral and contains a youtube link.
-- Here is the link : [Youtube](https://youtu.be/1hoGPZPVzqM)
-- The video is a 6 seconds stopwatch with a glitchy effect and a weird audio.
+- Here is the link : [Youtube](https://youtu.be/2hoGPZPVzqM)
+- The video is a 7 seconds stopwatch with a glitchy effect and a weird audio.
 - You only need to focus on the audio.
 - You need to trace the spectral waves of the audio.
 - You can either open it with audacity or do it with some online tools.
